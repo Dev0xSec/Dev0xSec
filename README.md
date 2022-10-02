@@ -1,7 +1,4 @@
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dml7&bg_color=DD272700&border_color=DD272700&layout=compact'>
-</div>
-<div align='center'>
   <img src='https://streak-stats.demolab.com?user=Dml7&theme=dark&hide_border=true&background=DD272700&border=DD272700'>
 </div>
 
