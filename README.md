@@ -1,8 +1,14 @@
-<h2 align="center">🔥 Hacker r</h2>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dml7&bg_color=DD272700&border_color=DD272700&layout=compact'>
+</div>
+<div align='center'>
+  <img src='https://streak-stats.demolab.com?user=Dml7&theme=dark&hide_border=true&background=DD272700&border=DD272700'>
+</div>
 
-<p align="center">I document ctf challenges/tournaments from the htb pentesting community as a guide for individuals who are willing to learn from my resources, demotrating steps for maintatining and gaining access control as well as exploitation for educational purposes, as htb is a llegal platform for penertration testing. Feel free to view my documented hacks from htb.</p>
 
-<h4 align="center">Tech Stack</h3>
+
+
+<!-- <h4 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -16,6 +22,4 @@
   <img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-</p>
-
+</p> -->
