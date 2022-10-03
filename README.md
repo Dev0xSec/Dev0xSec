@@ -1,7 +1,3 @@
-<div align='center'>
-  <img src='https://streak-stats.demolab.com?user=Dev0xSec&theme=dark&hide_border=true&background=DD272700&border=DD272700'>
-</div>
-
 
 
 
